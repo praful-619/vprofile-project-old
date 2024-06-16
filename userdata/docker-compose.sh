@@ -5,7 +5,9 @@ chmod +x ~/.docker/cli-plugins/docker-compose
 docker compose version
 
 #Command to run the Compose file
+docker compose help
 touch docker-compose.yml
 docker compose up  
     or
 docker compose up -d
+
