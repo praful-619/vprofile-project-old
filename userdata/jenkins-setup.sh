@@ -1,3 +1,8 @@
+
+#Dependencies:
+  1.Opejdk
+#OS : Ubuntu22.04
+#Port No. : 8080
 #!/bin/bash
 sudo apt update
 sudo apt install openjdk-11-jdk -y
